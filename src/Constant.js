@@ -1,0 +1,1 @@
+export const DRAWER_STATUS = "DRAWER_STATUS";
